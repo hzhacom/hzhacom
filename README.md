@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hzhacom
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning python ,sql server,html and css(but I all know little)
-- 💞️ I’m looking to collaborate on PyQt6,sql server,html,css,Internet learning
-- 📫 How to reach me WeChat:DDHZH20100927-2357,thank you
+- 🌱 I’m currently learning python , mysql,java, web designing
+- 💞️ I’m looking to collaborate on Django, Nginx, Internet learning
+- 📫 You to reach me WeChat:DDHZH20100927-2357,thank you
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm a middle school student
 
